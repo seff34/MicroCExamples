@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F46K22 -DL -O11111114 -fo8 -N"C:\Users\sefae\Downloads\pic18f-master\unit_14_I2C\01_code\unit_14_i2c_simple_eco.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\sefae\Downloads\pic18f-master\unit_14_I2C\01_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit_14_i2c_simple_eco.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_I2C_c34d01.mcl"	 
+hint: 0	1139	Available RAM: 3875 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	unit_14_i2c_simple_eco.c
+diagnostics: 84	123	Compiled Successfully	unit_14_i2c_simple_eco.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 41 (1%)  Free RAM (bytes): 3834 (99%)	Used RAM (bytes): 41 (1%)  Free RAM (bytes): 3834 (99%)
+hint: 0	1144	Used ROM (bytes): 1062 (2%)  Free ROM (bytes): 64474 (98%)	Used ROM (bytes): 1062 (2%)  Free ROM (bytes): 64474 (98%)
+diagnostics: 0	125	Project Linked Successfully	unit_14_i2c_simple_eco.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'unit_14_i2c_simple_eco.mcppi' completed: 78 ms	 
+diagnostics: 0	103	Finished successfully: 05 Tem 2021, 18:09:52	unit_14_i2c_simple_eco.mcppi
