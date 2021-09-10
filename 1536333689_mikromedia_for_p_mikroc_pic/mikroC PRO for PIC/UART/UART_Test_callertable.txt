@@ -1,0 +1,19 @@
+main
+	__CC2DW
+	UART4_Init
+		UART4_MapDefaultPins
+			PPS_Mapping
+				_PPS_Mapping
+					Unlock_IOLOCK
+					Lock_IOLOCK
+		UART_Set_Active
+		UART4_Init_Static
+	UART_Write_Text
+		UART_Write
+			____DoIFC
+	UART_Write
+		____DoIFC
+	UART_Data_Ready
+		____DoIFC
+	UART_Read
+		____DoIFC

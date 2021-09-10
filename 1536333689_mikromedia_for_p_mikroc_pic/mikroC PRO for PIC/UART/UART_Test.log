@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F67K40 -DL -O11111114 -fo64 -N"C:\Users\NOOR TECH ARGE\Desktop\1536333689_mikromedia_for_p_mikroc_pic\mikroC PRO for PIC\UART\UART_Test.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\NOOR TECH ARGE\Desktop\1536333689_mikromedia_for_p_mikroc_pic\mikroC PRO for PIC\UART\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "UART_Test.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System_xxK40.mcl" "__Lib_Delays.mcl" "__Lib_PPS_6XK40.mcl" "__Lib_UART_Remappable_12345.mcl"	 
+hint: 0	1139	Available RAM: 3540 [bytes], Available ROM: 131072 [bytes]	 
+diagnostics: 0	122	Compilation Started	UART_Test.c
+diagnostics: 73	123	Compiled Successfully	UART_Test.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 51 (1%)  Free RAM (bytes): 3489 (99%)	Used RAM (bytes): 51 (1%)  Free RAM (bytes): 3489 (99%)
+hint: 0	1144	Used ROM (bytes): 3804 (3%)  Free ROM (bytes): 127268 (97%)	Used ROM (bytes): 3804 (3%)  Free ROM (bytes): 127268 (97%)
+diagnostics: 0	125	Project Linked Successfully	UART_Test.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'UART_Test.mcppi' completed: 110 ms	 
+diagnostics: 0	103	Finished successfully: 10 Eyl 2021, 11:51:30	UART_Test.mcppi
